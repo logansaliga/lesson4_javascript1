@@ -13,8 +13,7 @@ Logan Saliga
 For this assignment, we used the skills from JavaScript basics to create a Monthly Expense Calculator.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://logansaliga.github.io/lesson4_javascript1/Lesson4_ExpenseCalculator%20(1)/
 
 ### Lessons Learned in the Assignment:
 1. I learned the process of declaring and displaying variables.
